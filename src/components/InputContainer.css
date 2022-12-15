@@ -1,0 +1,72 @@
+.editor-container{
+  width: 80%;
+  height: 100%;
+}
+
+.content{
+  text-align: start;
+  margin: 5px;
+  font-weight: 500;
+}
+
+.main-btn{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+  border-bottom-width: thin;
+
+}
+
+.text-area{
+  border: none;
+  padding: 10px;
+  background-color: rgb(251, 251, 255);
+  width: 100%;
+}
+.text-area:focus{
+  outline: none;
+}
+.text-area::placeholder{
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+.button-container{
+  margin-top: 15px;
+  width:250px;
+  border-radius: 5px;
+}
+.editor-btn{
+  width: 150px;
+  padding: 10px;
+ color: azure;
+font-weight: 600;
+background-color: #1262ca; 
+  font-size: 1rem;
+  border-color: aliceblue;
+  border-radius: 10px;
+}
+.highlight{
+  min-width: none;
+}
+.Border-Container{
+  border-width: 1px;
+  border-color: grey;
+  border-style: solid;
+  border-radius: 10px;
+
+}
+.button{
+  padding: 0px 3px;
+  border-radius: 5px;
+  border: none;
+  background-color: white;
+}
+.button:hover{
+  background-color: #dfeaf8;
+}
+.icons-style{
+  color: black;
+  min-width: 30px;
+  border-radius: 5px;
+}
+

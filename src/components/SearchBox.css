@@ -1,0 +1,18 @@
+.heading{
+    display: flex;
+  justify-content: center;
+}
+.input-box{
+    display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+input{
+    margin-top: 10px;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding-left: 10px;
+}
